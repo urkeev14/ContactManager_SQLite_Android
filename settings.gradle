@@ -1,0 +1,2 @@
+rootProject.name='ContactManager_SQLite_Android'
+include ':app'
